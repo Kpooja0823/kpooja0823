@@ -1,5 +1,10 @@
+![Programming](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+![Modern](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+
 <h1 align="center">Hi 👋, I'm Pooja Kamshetty</h1>
-<h3 align="center">This is the place where I opensource stuff and break things 😎 </h3>
+<h3 align="center">
+🎓 CS Student | 💻 Developer | 🌱 Learning Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpooja0823&label=Profile%20views&color=0e75b6&style=flat" alt="kpooja0823" /> </p>
 
