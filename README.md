@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Something Cool 😉**
 
-- 🌱 I’m currently learning **Vue.js , Devops**
+- 🌱 I’m currently learning **Robotic Process Automation, Devops**
   
 - 👨‍💻 All of my projects are available at [https://poojakamshetty.vercel.app/](https://poojakamshetty.vercel.app/)
 
