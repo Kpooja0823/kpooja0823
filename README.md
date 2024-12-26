@@ -1,7 +1,6 @@
-![Programming](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-![Modern](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
-
+<div align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="450" height="300"/>
+</div>
 <h1 align="center">Hi 👋, I'm Pooja Kamshetty</h1>
 <h3 align="center">
 🎓 CS Student | 💻 Developer | 🌱 Learning Enthusiast </h3>
