@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="450" height="400"/>
-</div>
 <h1 align="center">Hi 👋, I'm Pooja Kamshetty</h1>
 <h3 align="center">
 🎓 CS Student | 💻 Developer | 🌱 Learning Enthusiast </h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpooja0823&label=Profile%20views&color=0e75b6&style=flat" alt="kpooja0823" /> </p>
 
@@ -16,6 +16,9 @@
 - 💬 Ask me about **DSA , .Net , Java , Spring Boot**
 
 - 📫 How to reach me **kamshettypooja05@gmail.com**
+  
+- ⚡ Fun fact: **I love to attend Meetups for learning & Conferences for Networking**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
