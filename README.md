@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="450" height="300"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="450" height="400"/>
 </div>
 <h1 align="center">Hi 👋, I'm Pooja Kamshetty</h1>
 <h3 align="center">
